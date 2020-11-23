@@ -1,17 +1,10 @@
 {
   "users": [
-    {"id":1, "name": "Leanne Graham"},
-    {"id":2, "name": "Ervin Howell"},
-    {"id":3, "name": "Clementine Bauch"},
-    {"id":4, "name": "Patricia Lebsack"},
-    {"id":5, "name": "Chelsey Dietrich"}
-  ],
-  "bankinfo": [
-    {"id": 1, "money": 100.0},
-    {"id": 2, "money": 200.0},
-    {"id": 3, "money": 300.0},
-    {"id": 4, "money": 400.0},
-    {"id": 5, "money": 500.0}
+    {"id":1, "name": "Leanne Graham", "money": 100.0},
+    {"id":2, "name": "Ervin Howell", "money": 200.0},
+    {"id":3, "name": "Clementine Bauch", "money": 300.0},
+    {"id":4, "name": "Patricia Lebsack", "money": 400.0},
+    {"id":5, "name": "Chelsey Dietrich", "money": 500.0}
   ],
   "profile": {
     "name": "typicode"
