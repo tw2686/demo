@@ -4,7 +4,8 @@
     {"id":2, "name": "Ervin Howell", "money": 200.0},
     {"id":3, "name": "Clementine Bauch", "money": 300.0},
     {"id":4, "name": "Patricia Lebsack", "money": 400.0},
-    {"id":5, "name": "Chelsey Dietrich", "money": 500.0}
+    {"id":5, "name": "Chelsey Dietrich", "money": 500.0},
+    {"id":6, "name": "James Wong", "money": 0.0}
   ],
   "profile": {
     "name": "typicode"
